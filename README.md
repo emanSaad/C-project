@@ -29,3 +29,4 @@ The program contains a main menu that allows the user to choose:
 8- Delete a product;
 
 9- List the products that need to be ordered.
+10- Exit the program and save everything into "clothData.txt".
